@@ -42,7 +42,7 @@ const Footer = () => {
           <FooterLinksWrapper>
             <FooterContact>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
-              <p>📍 Tan-awan, Oslob, Cebu, Philippines</p>
+              <p>📍 Cebu, Philippines</p>
               <p>📞 +63 912 345 6789</p>
               <p>📧 info@whalesharkbooking.com</p>
             </FooterContact>
